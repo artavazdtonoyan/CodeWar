@@ -1,5 +1,5 @@
 /**
- * Created by Екатерина on 27.11.2017.
+ * Edited by Art 01.01.2018.
  */
 public class Cell {
     int x, y;
